@@ -11,7 +11,7 @@ Explore a world of coding and data analysis with a variety of exciting challenge
 2. **Python Advanced**: 🌟 Elevate your Python skills to the next level. Discover advanced concepts, best practices, and unleash Python's full potential.
    - [Discover Advanced Python](https://github.com/Adi3042/Advanced_Python)
 
-3. **Pandas**: 🐼 Unleash the power of data manipulation and analysis with Pandas. Transform data, gain insights, and become a data wizard.
+3. **Pandas and Numpy**: 🐼 Unleash the power of data manipulation and analysis with Pandas. Transform data, gain insights, and become a data wizard.
    - [Dive into Pandas](https://github.com/Adi3042/Pandas)
 
 4. **Flask**: 🌐 Embark on a web development adventure with Flask. Craft dynamic web applications using Python's elegance.
