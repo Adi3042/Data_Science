@@ -1,4 +1,4 @@
-# 📂 My Directory
+# 📂 Basic Python Directory 
 
 This directory contains various code examples, programs, and information related to programming in Python. It covers a range of topics, including Python basics, conditional statements, loops, and object-oriented programming. You'll find code examples, explanations, and answers to common programming questions.
 
