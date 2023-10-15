@@ -4,12 +4,12 @@ This directory contains various code examples, programs, and information related
 
 ## 📋 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Contents](#contents)
-3. [Examples](#examples)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+1. [Introduction](#-introduction)
+2. [Contents](#-contents)
+3. [Examples](#-examples)
+4. [Usage](#-usage)
+5. [Contributing](#-contributing)
+6. [License](#-license)
 
 ## 🚀 Introduction
 
@@ -56,7 +56,7 @@ MIT License
 Copyright (c) 2023 Aditya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files, to deal
+of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
