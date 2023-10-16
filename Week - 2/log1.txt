@@ -1,0 +1,10 @@
+2023-04-05 07:45:25,346 root  INFO Inside the try block
+2023-04-05 07:45:25,381 root  INFO Inside the else block
+2023-04-05 07:46:54,446 root  INFO Inside the try block
+2023-04-05 07:46:54,449 root  INFO Inside the finally block
+2023-04-05 07:47:06,648 root  INFO Inside the try block
+2023-04-05 07:47:06,648 root  INFO Inside the finally block
+2023-04-05 07:47:25,789 root  INFO Inside the try block
+2023-04-05 07:47:25,790 root  INFO Inside the finally block
+2023-04-05 07:47:32,717 root  INFO Inside the try block
+2023-04-05 07:47:32,718 root  INFO Inside the finally block

@@ -1,0 +1,40 @@
+2023-04-05 07:47:43,342 root  INFO Inside the try block
+2023-04-05 07:47:43,385 root  INFO Inside the finally block
+2023-04-05 07:53:56,942 root  INFO Inside the try block
+2023-04-05 07:53:56,944 root  INFO Inside the divide function
+2023-04-05 07:53:56,944 root  ERROR raise error
+2023-04-05 07:53:56,944 root  INFO Inside the except block
+2023-04-05 07:54:05,932 root  INFO Inside the try block
+2023-04-05 07:54:05,932 root  INFO Inside the divide function
+2023-04-05 07:54:05,932 root  ERROR raise error
+2023-04-05 07:54:05,932 root  INFO Inside the except block
+2023-04-05 07:54:14,940 root  INFO Inside the try block
+2023-04-05 07:54:14,940 root  INFO Inside the divide function
+2023-04-05 07:54:14,940 root  ERROR raise error
+2023-04-05 07:54:14,940 root  INFO Inside the except block
+2023-04-05 07:55:03,566 root  INFO Inside the try block
+2023-04-05 07:55:03,566 root  INFO Inside the divide function
+2023-04-05 07:55:03,566 root  ERROR raise error
+2023-04-05 07:55:03,566 root  INFO Inside the except block
+2023-04-05 07:55:07,123 root  INFO Inside the try block
+2023-04-05 07:55:07,125 root  INFO Inside the divide function
+2023-04-05 07:55:07,125 root  ERROR raise error
+2023-04-05 07:55:07,125 root  INFO Inside the except block
+2023-10-16 17:17:34,212 root  INFO Inside the try block
+2023-10-16 17:17:34,212 root  INFO Inside the finally block
+2023-10-16 17:28:45,199 root  INFO Inside the try block
+2023-10-16 17:28:45,200 root  INFO Inside the else block
+2023-10-16 17:28:46,902 root  INFO Inside the try block
+2023-10-16 17:28:46,903 root  INFO Inside the finally block
+2023-10-16 17:28:49,643 root  INFO Inside the try block
+2023-10-16 17:28:49,644 root  INFO Inside the divide function
+2023-10-16 17:28:49,644 root  ERROR raise error
+2023-10-16 17:28:49,644 root  INFO Inside the except block
+2023-10-16 17:29:09,186 root  INFO Inside the class
+2023-10-16 17:29:09,187 root  INFO Inside the try block
+2023-10-16 17:29:09,187 root  INFO Inside the function
+2023-10-16 17:29:09,187 root  ERROR Raise error
+2023-10-16 17:29:09,187 root  INFO Call the class constructor
+2023-10-16 17:29:09,187 root  ERROR Except block
+2023-10-16 17:29:16,352 root  INFO Class of validate age
+2023-10-16 17:29:16,353 root  INFO Inside the try block

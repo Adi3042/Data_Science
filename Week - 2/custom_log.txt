@@ -1,0 +1,9 @@
+2023-04-05 07:37:51,564 root  INFO Class of validate age
+2023-04-05 07:37:51,564 root  INFO Inside the try block
+2023-04-05 07:37:55,282 root  INFO Calling validate function
+2023-04-05 07:37:55,282 root  INFO Validate function
+2023-04-05 07:37:55,282 root  INFO Inside the else block
+2023-04-05 07:44:38,515 root  INFO Inside the try block
+2023-04-05 07:44:38,515 root  INFO Inside the else block
+2023-04-05 07:45:09,317 root  INFO Inside the try block
+2023-04-05 07:45:09,318 root  INFO Inside the else block

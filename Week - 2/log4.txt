@@ -1,0 +1,6 @@
+2023-04-05 08:10:18,631 root  INFO Inside the class
+2023-04-05 08:10:18,632 root  INFO Inside the try block
+2023-04-05 08:10:18,632 root  INFO Inside the function
+2023-04-05 08:10:18,632 root  ERROR Raise error
+2023-04-05 08:10:18,632 root  INFO Call the class constructor
+2023-04-05 08:10:18,632 root  ERROR Except block
