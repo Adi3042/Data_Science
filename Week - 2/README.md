@@ -45,7 +45,7 @@ If you wish to contribute to this repository by adding more examples, enhancing 
 
 ## 📄 License
 
-This repository is open-source and licensed under the [MIT License](#-LICENSE). You have the freedom to use, modify, and distribute the content provided you include the appropriate attribution.
+This repository is open-source and licensed under the [MIT License](#-mit-license). You have the freedom to use, modify, and distribute the content provided you include the appropriate attribution.
 
 Happy coding! 🚀
 
