@@ -36,7 +36,7 @@ Join us as we embark on this Python adventure! If you desire to add more code tr
 
 ## 📄 Licensing the Voyage 📜
 
-This Python hub is open for all adventurers and explorers under the [MIT License](LICENSE). You have the freedom to use, adapt, and share this content, as long as you honor the spirit of adventure and provide the appropriate attribution. 🏴‍☠️📜
+This Python hub is open for all adventurers and explorers under the [MIT License](https://github.com/Adi3042/Data_Science/blob/main/Week%20-%204/MIT%20LICENSE). You have the freedom to use, adapt, and share this content, as long as you honor the spirit of adventure and provide the appropriate attribution. 🏴‍☠️📜
 
 Happy coding and fair winds! 🚀🌊
 
