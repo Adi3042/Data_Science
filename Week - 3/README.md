@@ -10,6 +10,7 @@ Welcome to the Python Programming Repository! 🚀 This repository serves as a c
 4. [MongoDB](#-mongodb)
 5. [API](#-api)
 6. [Flask Framework](#-flask-framework)
+7. [MIT License](#-mit-license)
 
 Feel free to explore the topics that pique your interest and uncover valuable Python code snippets and insights.
 
@@ -53,30 +54,8 @@ Your contributions are valued! 🙌 If you wish to enhance this repository by ad
 
 ## 📄 License
 
-This repository is open-source and licensed under the [MIT License](#-mit-license). You have the freedom to use, modify, and distribute the content provided you include the appropriate attribution.
+This repository is open-source and licensed under the [MIT License](https://github.com/Adi3042/Data_Science/blob/main/LICENSE). You have the freedom to use, modify, and distribute the content provided you include the appropriate attribution.
 
 Happy coding! 🚀
 
 ---
-
-## MIT License
-
-Copyright (c) 2023 Aditya
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
-OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
