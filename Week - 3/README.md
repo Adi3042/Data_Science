@@ -12,6 +12,7 @@ Welcome to the Python Programming Repository! 🚀 This repository serves as a c
 6. [Flask Framework](#-flask-framework)
 7. [MIT License](#-mit-license)
 
+
 Feel free to explore the topics that pique your interest and uncover valuable Python code snippets and insights.
 
 ## 🚀 Exception Handling
@@ -52,7 +53,7 @@ Feel free to explore the contents, utilize the code samples, and adapt them to y
 
 Your contributions are valued! 🙌 If you wish to enhance this repository by adding more examples, improving explanations, or offering solutions to additional questions, please don't hesitate to submit a pull request. We're in this together. 🌟
 
-## 📄MIT License
+## 📄 MIT License
 
 This repository is open-source and licensed under the [MIT License](https://github.com/Adi3042/Data_Science/blob/main/LICENSE). You have the freedom to use, modify, and distribute the content provided you include the appropriate attribution.
 
