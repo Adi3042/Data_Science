@@ -1,0 +1,9 @@
+Product,Category,Sales,Month
+A,X,100,Jan
+B,X,150,Jan
+A,Y,200,Feb
+B,Y,250,Feb
+A,X,300,Mar
+B,X,350,Mar
+A,Y,400,Apr
+B,Y,450,Apr
